@@ -47,6 +47,5 @@ htmlcov/
 # --- Helm ---
 *.tgz
 
-# --- Large media (keep local, submit separately - not via git) ---
-*.mov
-*.mp4
+# --- Large media ---
+# Tracked via Git LFS (see .gitattributes) rather than excluded outright.
