@@ -245,3 +245,8 @@ an error-rate gauge.
 
 See `docs/report.md` for the full write-up (EDA discussion, modelling
 choices, architecture diagram, CI/CD + deployment screenshots).
+
+---
+
+## Recording
+https://wilpbitspilaniacin0-my.sharepoint.com/:v:/g/personal/2025ae05688_wilp_bits-pilani_ac_in/IQChLyuD5N3ySIqgvoi8gmP5AWxHFZXfrlZ8UkGhI_fmOAc?e=es9MlL
